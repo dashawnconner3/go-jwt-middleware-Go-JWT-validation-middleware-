@@ -1,7 +1,8 @@
-package main
+package jwtmiddleware
 
 import "fmt"
 
-func main() {
+// Hello prints a greeting.
+func Hello() {
 	fmt.Println("Hello, Bounty Hunter!")
 }
